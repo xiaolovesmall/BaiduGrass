@@ -51,7 +51,7 @@ def main():
     
     root.title("Graste")
     root.geometry('500x300+300+200')
-    root.iconbitmap(r"D:\xiaox\Desktop\Dev\Python\Graste\graste.ico")
+    root.iconbitmap(r"graste.ico")
     root.minsize(700,500)	
     root.maxsize(1000,800)	
     def sun():
@@ -76,8 +76,8 @@ def main():
             query = str(text)
         
             def getURL(toLang = None, q = None):
-                appid = '20220411001167990'
-                secretKey = 'IczGxhTtnViMa0b9n5Jl'
+                appid = 'Your Baidudu Fanyi Apiid'
+                secretKey = 'Your Baidudu Fanyi SecretKey'
                 myurl = 'https://fanyi-api.baidu.com/api/trans/vip/translate'
                 fromLang = 'auto'
                 salt = random.randint(32768, 65536)
