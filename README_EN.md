@@ -1,4 +1,4 @@
-# Welcome to use Graste😉 你正在找 [简体中文](https://xxx) 吗❓
+# Welcome to use Graste😉 你正在找 [简体中文](https://github.com/xiaolovesmall/Graste/blob/main/README.md) 吗❓
 This is Graste, we can fastly make your original dignified or formal sentences be very funny 'Grass'.
 ![image](https://github.com/xiaolovesmall/Graste/assets/97742074/f20211f8-61c5-4f21-9c82-0b540ef7d56e)
 
